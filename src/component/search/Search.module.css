@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: rebeccapurple;
+    width: 100%;
+    position: absolute;
+    top: 10px;
+}
+
+.input {
+
+    width: 75%;
+    padding: 15px;
+    border-radius: 10px  0 0 10px;
+    border: 1px solid #f1ecec;
+}
+
+.button {
+    padding: 15px;
+    border-radius: 0 10px 10px 0;
+    border: 1px solid #f1ecec;
+    background: #fff;
+}
